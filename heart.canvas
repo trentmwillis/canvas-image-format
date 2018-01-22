@@ -1,0 +1,12 @@
+dimensions 150 150
+context 2d
+fillStyle red
+beginPath
+moveTo 75 40
+bezierCurveTo 75 37 70 25 50 25
+bezierCurveTo 20 25 20 62.5 20 62.5
+bezierCurveTo 20 80 40 102 75 120
+bezierCurveTo 110 102 130 80 130 62.5
+bezierCurveTo 130 62.5 130 25 100 25
+bezierCurveTo 85 25 75 37 75 40
+fill

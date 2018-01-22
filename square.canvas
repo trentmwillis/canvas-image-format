@@ -1,0 +1,5 @@
+dimensions 150 150
+context 2d
+fillRect 0 0 150 150
+fillStyle #fff
+fillRect 25 25 100 100
